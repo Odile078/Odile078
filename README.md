@@ -1,4 +1,5 @@
 ### Hi I'm Odile Uwimpuhwe
+A full-stack developer
 
 <!--
 **Odile078/Odile078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
